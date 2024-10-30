@@ -3,7 +3,6 @@
 ### 🏷️ Predicting Car Prices in the Japanese Market 📉
 
 ---
-
 ## 📌 Project Overview
 Welcome to the **Japan Used Cars Price Prediction** project! This project leverages data from Japan's largest online used car marketplace to predict **car prices** based on key factors like **brand, mileage, engine capacity, and more**. By implementing various machine learning models, we identify the best approach for accurate predictions. 🎯
 
@@ -12,7 +11,6 @@ Welcome to the **Japan Used Cars Price Prediction** project! This project levera
 ➡️ **Dataset Source**: [Japan Used Cars Dataset on GitHub](https://raw.githubusercontent.com/dsrscientist/dataset4/main/Japan_used_cars_datasets.csv)
 
 ---
-
 ## ⚙️ Project Workflow
 
 1. **Data Preprocessing** 🧹
@@ -32,7 +30,6 @@ Welcome to the **Japan Used Cars Price Prediction** project! This project levera
 ---
 
 ## 💾 Dataset Features
-
 Each car entry has the following attributes:
 
 | Feature           | Description                     |
